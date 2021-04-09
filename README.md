@@ -1,7 +1,7 @@
 
 # Die Schweiz in D3
 
-Jetzt da wir wissen wie man eine Karte in D3 rendern kann können wir eine Schweizerkarte der Kantone mit D3 generieren. Den Code für dieses Modul kannst du auf Github finden.
+**Jetzt da wir wissen wie man eine Karte in D3 rendern kann können wir eine Schweizerkarte der Kantone mit D3 generieren. Den Code für dieses Modul kannst du auf Github finden.**
 
 ## Übersicht
 
