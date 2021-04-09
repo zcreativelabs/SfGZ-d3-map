@@ -9,10 +9,11 @@
 * Base map
 * Choroplethenkarte
 * Interaktivität
+* Bonus: Hover events
 
 ## Einführung und Ziel
 
-Diese Karte der Schweiz werden wir von Grund auf in D3 gestalten. Die geografischen Daten kommen von SwissTopo und wurden auf ein WGS84 Koordinatensystem umgewandelt damit sie einfacher zu benutzen sind mit d3-geo. Das Geojson file findest du im Github Repo.
+Diese Karte der Schweiz werden wir von Grund auf in D3 gestalten. Die geografischen Daten wurden auf ein WGS84 Koordinatensystem umgewandelt damit sie einfacher zu benutzen sind mit d3-geo. Das Geojson file findest du in diesem Github Repo.
 
 Die Kantone im Geojson enthalten auch metadaten als "properties" und können verwendet werden, um eine Visualisierung zu machen. In diesem Fall geht es um verschiedene Wahlresultate von Volksabstimmungen.
 
