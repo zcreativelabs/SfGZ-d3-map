@@ -77,7 +77,7 @@ body {
 @-moz-document url-prefix() {
   .select select {
     text-indent: 0.01px;
-    text-overflow: '';
+    text-overflow: "";
     padding-right: 1rem;
   }
 
